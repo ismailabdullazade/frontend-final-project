@@ -9,7 +9,7 @@
         "prefix:css": "postcss --use autoprefixer -b 'last 10 versions' assets/css/style.css -o assets/css/style.prefix.css",
         "compress:css": "node-sass assets/css/style.prefix.css assets/css/style.compressed.css --output-style compressed"
     },
-    "author": "ulvi asadzade",
+    "author": "ismail abdullazade",
     "devDependencies": {
         "autoprefixer": "^9.8.6",
         "concat": "^1.0.3",
